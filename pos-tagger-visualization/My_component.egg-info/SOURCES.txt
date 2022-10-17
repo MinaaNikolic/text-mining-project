@@ -1,0 +1,8 @@
+setup.py
+My_component.egg-info/PKG-INFO
+My_component.egg-info/SOURCES.txt
+My_component.egg-info/dependency_links.txt
+My_component.egg-info/entry_points.txt
+My_component.egg-info/top_level.txt
+postaggervisualization/__init__.py
+postaggervisualization/poswidget.py
